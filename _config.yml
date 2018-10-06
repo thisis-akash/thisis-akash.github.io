@@ -3,3 +3,7 @@ markdown: kramdown
 plugins: 
   - jekyll-sitemap
 theme: jekyll-theme-merlot
+social-network-links:
+reddit: zyabxwcd
+linkedin: akashaggarwal13
+google_analytics: "UA-127088760-1"
