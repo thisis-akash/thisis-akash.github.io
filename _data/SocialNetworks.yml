@@ -1,0 +1,9 @@
+reddit:
+  name: "Reddit"
+  baseURL: "https://reddit.com/u/"
+  icon: "fa-reddit"
+  
+linkedin:
+  name: "LinkedIn"
+  baseURL: "https://linkedin.com/in/"
+  icon: "fa-linkedin"
