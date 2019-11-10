@@ -21,10 +21,10 @@ a {
     color: #999;
 }
 
-a:hover {
+/* a:hover {
     text-decoration: underline;
     font-size: 2em;
-}
+} */
 
 h1 {
     font-size: 2.8em;
